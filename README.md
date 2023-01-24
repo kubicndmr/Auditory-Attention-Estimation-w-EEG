@@ -1,4 +1,4 @@
-# Auditory-Attention-Estimation-w-EEG
+# Auditory Attention Estimation with EEG
 
 Partial MATLAB implementation of our paper 'Inference of the Selective Auditory Attention Using Sequential LMMSE Estimation', including temporal response function and noise coveriance estimation from a single channel EEG signal.
 
